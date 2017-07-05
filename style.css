@@ -1,0 +1,35 @@
+body{
+  background-color: #ffc04c;
+  border-radius: 2px;
+  font-family: 'PT Sans', sans-serif;
+}
+h1{
+  color: #062f4f;
+  margin: 2px;
+  padding: 2px;
+  font-weight: normal;
+  font-family: 'Lora', serif;
+
+}
+h2{
+  padding: 2px;
+  font-weight:normal;
+  color: #4c3100;
+  padding-bottom: 5px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+}
+h3{
+  padding-bottom: 2px;
+  font-weight: normal;
+  color: #4c3100;
+  margin-left: 2px;
+}
+.textarea{
+  padding: 4px;
+  margin: 5px;
+}
+.submit-button{
+  padding: 2px;
+  margin: 5px;
+}
